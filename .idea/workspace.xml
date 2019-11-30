@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72c456d8-c365-473e-9467-24b575c6f3ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575109934208</updated>
-      <workItem from="1575109936782" duration="3549000" />
+      <workItem from="1575109936782" duration="5759000" />
     </task>
     <task id="LOCAL-00001" summary="почищена изначальная заготовка">
       <created>1575111304491</created>
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575111304491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="написан reducer">
+      <created>1575115479417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575115479417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="почищена изначальная заготовка" />
-    <option name="LAST_COMMIT_MESSAGE" value="почищена изначальная заготовка" />
+    <MESSAGE value="написан reducer" />
+    <option name="LAST_COMMIT_MESSAGE" value="написан reducer" />
   </component>
 </project>
