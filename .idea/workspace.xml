@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c456d8-c365-473e-9467-24b575c6f3ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,6 +11,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575109934208</updated>
-      <workItem from="1575109936782" duration="7429000" />
+      <workItem from="1575109936782" duration="7802000" />
     </task>
     <task id="LOCAL-00001" summary="почищена изначальная заготовка">
       <created>1575111304491</created>
@@ -91,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575121286691</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="рефакторинг с применением паттерна action creator">
+      <created>1575122340747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575122340747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +129,7 @@
     <MESSAGE value="написан reducer" />
     <MESSAGE value="написан счетчик как пример работы redux" />
     <MESSAGE value="добавление дополнительного параметра в action аргумент" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавление дополнительного параметра в action аргумент" />
+    <MESSAGE value="рефакторинг с применением паттерна action creator" />
+    <option name="LAST_COMMIT_MESSAGE" value="рефакторинг с применением паттерна action creator" />
   </component>
 </project>
