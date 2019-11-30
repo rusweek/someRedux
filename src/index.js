@@ -18,19 +18,38 @@ const reduser = (state = 0, action) => {
 
 const  store = createStore(reduser);
 
+const inc = () => {
+    return {
+        type: 'INC'
+    }
+
+};
+
+const dec = () => {
+  return {
+      type: 'DEC'
+  }
+};
+
+const rnd = (payload) => {
+
+    return {
+        type: 'RND',
+        payload
+    }
+};
+
 document.getElementById('inc').addEventListener('click', (e)=>{
-    store.dispatch({type: 'INC'});
+    store.dispatch(inc());
 });
 
 document.getElementById('dec').addEventListener('click', (e)=>{
-    store.dispatch({type: 'DEC'});
+    store.dispatch(dec());
 });
 
 document.getElementById('rnd').addEventListener('click', (e)=>{
     const payload = Math.floor(Math.random()*10);
-    store.dispatch({
-        type: 'RND',
-        payload});
+    store.dispatch(rnd(payload));
 });
 
 const update = () => {
