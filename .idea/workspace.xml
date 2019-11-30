@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c456d8-c365-473e-9467-24b575c6f3ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575109934208</updated>
-      <workItem from="1575109936782" duration="7802000" />
+      <workItem from="1575109936782" duration="10352000" />
     </task>
     <task id="LOCAL-00001" summary="почищена изначальная заготовка">
       <created>1575111304491</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575122340747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="деструктуризация проекта на файлы reducer, actions">
+      <created>1575122708863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575122708863</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +136,7 @@
     <MESSAGE value="написан счетчик как пример работы redux" />
     <MESSAGE value="добавление дополнительного параметра в action аргумент" />
     <MESSAGE value="рефакторинг с применением паттерна action creator" />
-    <option name="LAST_COMMIT_MESSAGE" value="рефакторинг с применением паттерна action creator" />
+    <MESSAGE value="деструктуризация проекта на файлы reducer, actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="деструктуризация проекта на файлы reducer, actions" />
   </component>
 </project>
