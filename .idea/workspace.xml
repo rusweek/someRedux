@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c456d8-c365-473e-9467-24b575c6f3ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +32,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js\REACT\proDev_react_redux\redux\redux-sandbox\src\components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575109934208</updated>
       <workItem from="1575109936782" duration="12373000" />
-      <workItem from="1575176655974" duration="1879000" />
+      <workItem from="1575176655974" duration="3249000" />
     </task>
     <task id="LOCAL-00001" summary="почищена изначальная заготовка">
       <created>1575111304491</created>
@@ -142,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575178092329</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="коментарии для понимания происходящего">
+      <created>1575178601805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575178601805</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +184,7 @@
     <MESSAGE value="рефакторинг с использованием bindActionCreators" />
     <MESSAGE value="git ignore update" />
     <MESSAGE value="отрисовка компонентов с помощью react, reactdom" />
-    <option name="LAST_COMMIT_MESSAGE" value="отрисовка компонентов с помощью react, reactdom" />
+    <MESSAGE value="коментарии для понимания происходящего" />
+    <option name="LAST_COMMIT_MESSAGE" value="коментарии для понимания происходящего" />
   </component>
 </project>
