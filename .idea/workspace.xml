@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c456d8-c365-473e-9467-24b575c6f3ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="72c456d8-c365-473e-9467-24b575c6f3ba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575109934208</updated>
       <workItem from="1575109936782" duration="12373000" />
-      <workItem from="1575176655974" duration="5773000" />
+      <workItem from="1575176655974" duration="6070000" />
     </task>
     <task id="LOCAL-00001" summary="почищена изначальная заготовка">
       <created>1575111304491</created>
@@ -163,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575180388093</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="дописана mapDispatchToProps с риализацией передачи inc dec rnd из action.js">
+      <created>1575185450982</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575185450982</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +196,7 @@
     <MESSAGE value="отрисовка компонентов с помощью react, reactdom" />
     <MESSAGE value="коментарии для понимания происходящего" />
     <MESSAGE value="использование редакс с его полноценным функционалом.&#10;в главном компоненте добавлена функция Provider, которая работает как контекст и в counter connect функция, которая является consumer + HOC" />
-    <option name="LAST_COMMIT_MESSAGE" value="использование редакс с его полноценным функционалом.&#10;в главном компоненте добавлена функция Provider, которая работает как контекст и в counter connect функция, которая является consumer + HOC" />
+    <MESSAGE value="дописана mapDispatchToProps с риализацией передачи inc dec rnd из action.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="дописана mapDispatchToProps с риализацией передачи inc dec rnd из action.js" />
   </component>
 </project>
