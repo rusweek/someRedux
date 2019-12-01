@@ -21,11 +21,6 @@ const  store = createStore(reduser);
 
 //const {inc, dec, rnd} = bindActionCreators(actions, dispatch); //inc = store.dispatch({type: 'INC'}) --->reducer(state, {type: 'INC'});
 
-
-
-
-
-
 ReactDOM.render(
     <Provider store={store}>
         <App/>

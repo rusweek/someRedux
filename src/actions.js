@@ -11,10 +11,10 @@ export const dec = () => {
     }
 };
 
-export const rnd = (payload) => {
+export const rnd = () => {
 
     return {
         type: 'RND',
-        payload
+        payload: Math.floor(Math.random()*10+1)
     }
 };
